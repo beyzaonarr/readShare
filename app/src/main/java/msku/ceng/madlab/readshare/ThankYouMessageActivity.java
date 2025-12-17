@@ -9,7 +9,7 @@ import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.firestore.FirebaseFirestore;
 import msku.ceng.madlab.readshare.databinding.ActivityThankYouMessageBinding;
 
-public class ThankYouMessageActivity extends AppCompatActivity {
+public class  ThankYouMessageActivity extends AppCompatActivity {
 
     private ActivityThankYouMessageBinding binding;
     private FirebaseFirestore db;
